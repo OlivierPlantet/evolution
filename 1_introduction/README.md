@@ -17,4 +17,3 @@ algorithm and genetic algorithm and run them on toy problems.
     * [slides](https://github.com/d9w/evolution/blob/master/1_introduction/3_EAs.ipynb)
     * [Video - English](https://youtu.be/pfqPaWkafwI)
     * [Video - French](https://youtu.be/D_3RlesBCwc)
-
